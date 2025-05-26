@@ -1,0 +1,3 @@
+title = "Game"
+main = "index.js"
+baseURI = "https://raw.githubusercontent.com/Varrience/wk-test/refs/heads/main"
