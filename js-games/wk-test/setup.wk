@@ -1,3 +1,3 @@
 title = "Game"
 main = "index.js"
-baseURI = "https://raw.githubusercontent.com/Varrience/wk-test/refs/heads/main"
+baseURI = "https://raw.githubusercontent.com/WatermelonKatanaDevs/symmetrical-telegram/refs/heads/main/js-games/wk-test/"
